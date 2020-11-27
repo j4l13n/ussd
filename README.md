@@ -13,7 +13,7 @@ $ python manage.py runserver
 
 ### Ngrok was used for the callback url
 
-Install Ngrok and run it on the same port Django url uses
+Install [Ngrok](https://ngrok.com/download) and run it on the same port Django url uses
 
 ```
 ./ngrok http 8000
