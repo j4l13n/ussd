@@ -1,6 +1,6 @@
 # USSD APP (Africa's Talking APIs)
 
-This is to test USSD app using Africa's talking USSD API and django
+This is a USSD app using Africa's talking USSD API and it is built using Django framework
 
 
 ### Run the application
