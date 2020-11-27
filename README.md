@@ -18,4 +18,4 @@ Install [Ngrok](https://ngrok.com/download) and run it on the same port Django u
 ```
 ./ngrok http 8000
 ```
-use the given link as your callback url
+use the given link as your callback url in Africa's talking system
