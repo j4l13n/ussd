@@ -1,4 +1,4 @@
-# USSD
+# USSD APP (Africa's Talking APIs)
 
 This is to test USSD app using Africa's talking USSD API and django
 
