@@ -6,6 +6,8 @@ This is to test USSD app using Africa's talking USSD API and django
 ### Run the application
 
 ```
+$ git clone https://github.com/j4l13n/ussd.git
+$ cd ussd
 $ python3 -m venv ./venv/
 $ pip install -r requirements.txt
 $ python manage.py runserver
